@@ -24,6 +24,11 @@ This project implements an end-to-end multi-class classification system to ident
 
 The dataset used for this project is sourced from Kaggle's [Dog Breed competition](https://www.kaggle.com/c/dog-breed-identification). It contains thousands of labeled images across various dog breeds.
 
+## Demo
+
+<video style="width: 100%; height: auto;" controls>
+  <source src="video/Demo.mp4" type="video/mp4">
+</video>
 
 
 ## Contributing
