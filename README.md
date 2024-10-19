@@ -26,9 +26,8 @@ The dataset used for this project is sourced from Kaggle's [Dog Breed competitio
 
 ## Demo
 
-<video style="width: 100%; height: auto;" controls>
-  <source src="video/Demo.mp4" type="video/mp4">
-</video>
+[Watch the Demo video](video/Demo.mp4)
+
 
 
 ## Contributing
